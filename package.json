@@ -64,7 +64,7 @@
     "mocha": "~2.3.4",
     "nyc": "^11.6.0",
     "vows": "^0.8.1",
-    "winston": "^2.1.1"
+    "winston": "github:tahir-shakil/winston#3.1.0"
   },
   "directories": {},
   "dist": {
